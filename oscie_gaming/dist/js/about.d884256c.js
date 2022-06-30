@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkoscie_gaming"]=self["webpackChunkoscie_gaming"]||[]).push([[443],{7381:function(n,a,e){e.r(a),e.d(a,{default:function(){return g}});var s=e(3396);const u={class:"about"},i=(0,s._)("h1",null,"This is an about page",-1),t=[i];function c(n,a){return(0,s.wg)(),(0,s.iD)("div",u,t)}var r=e(89);const o={},f=(0,r.Z)(o,[["render",c]]);var g=f}}]);
+//# sourceMappingURL=about.d884256c.js.map
